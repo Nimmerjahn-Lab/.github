@@ -7,7 +7,7 @@ This organization hosts image analysis pipelines, microscopy preprocessing workf
 ## Repositories
 
 - ODIN Preprocessing
-- AQuA2 Analysis
+- Post-AQuA2 Analysis
 - ImageJ/Fiji Macros
 - Python Analysis Pipelines
 - Shared Utilities
